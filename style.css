@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.jambotron {
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    margin-top: auto;
+    padding: 2rem;
+    
+}
+
+.greenbtn {
+    margin: auto;
+    padding: 0.5rem;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 4rem;
+    background-color: green;
+    border: none;
+}
+
+.pinkbtn {
+    margin: auto;
+    padding: 0.5rem;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 4rem;
+    background-color: pink;
+    border: none;
+    
+}
+.yellowbtn {
+    margin: auto;
+    padding: 0.5rem;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 4rem;
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+}
+#resetbtn {
+    margin: auto;
+    padding: 0.5rem;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 1rem;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
